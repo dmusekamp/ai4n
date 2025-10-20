@@ -9,5 +9,8 @@ Solved:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dmusekamp/ai4n/blob/main/beginner_solved.ipynb)
 
 ## Introduction to PINNs
+Unsolved:  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dmusekamp/ai4n/blob/main/pinn_unsolved.ipynb)  
+Solved:  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dmusekamp/ai4n/blob/main/pinn_solved.ipynb)  
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dmusekamp/ai4n/blob/main/pinn.ipynb)  
